@@ -1,0 +1,40 @@
+name: MMORPG Core
+main: core\Main
+version: 1.0
+api: 3.0.1
+author: ImCombo
+
+commands:
+
+ settopexp:
+  description: settopexp
+  
+ deltopexp:
+  description: deltopexp
+  
+ settoplevel:
+  description: settoplevel
+  
+ deltoplevel:
+  description: deltoplevel
+ 
+ settopkill:
+  description: settopkill
+  
+ deltopkill:
+  description: deltopkill
+ 
+ settopdeath:
+  description: settopdeath
+  
+ deltopdeath:
+  description: deltopdeath
+ 
+ settoppoint:
+  description: settoppoint
+  
+ deltoppoint:
+  description: deltoppoint
+  
+ statusbar:
+  description: on/off Status
