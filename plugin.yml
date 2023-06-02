@@ -1,8 +1,8 @@
 name: MMORPG Core
 main: core\Main
 version: 1.0
-api: 3.0.1
-author: ImCombo
+api: 3.0.0
+author: Tanachotpat[MePaiiz]
 
 commands:
 
